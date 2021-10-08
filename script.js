@@ -725,3 +725,5 @@ console.log(dogs.filter(checkEatingOkay));
 const dogsSorted = dogs.slice().sort((a, b) => a.recFood - b.recFood);
 console.log(dogsSorted);
 */
+const function new_Feature()
+{console.log('newwwwwgit add -A');}
